@@ -1,2 +1,1 @@
 Pillow
-https://github.com/pygame/pygame.git
